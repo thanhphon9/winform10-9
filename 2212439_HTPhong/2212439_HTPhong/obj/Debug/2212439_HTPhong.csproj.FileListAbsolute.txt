@@ -1,0 +1,12 @@
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\bin\Debug\2212439_HTPhong.exe.config
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\bin\Debug\2212439_HTPhong.exe
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\bin\Debug\2212439_HTPhong.pdb
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\2212439_HTPhong.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\_2212439_HTPhong.Form1.resources
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\_2212439_HTPhong.Properties.Resources.resources
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\2212439_HTPhong.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\2212439_HTPhong.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\2212439_HTPhong.exe
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\2212439_HTPhong.pdb
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\_2212439_HTPhong.frmSinhVien.resources
+C:\Users\PC602\source\repos\2212439_HTPhong\2212439_HTPhong\obj\Debug\_2212439_HTPhong.SinhVien.resources
